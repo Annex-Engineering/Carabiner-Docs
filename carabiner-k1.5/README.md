@@ -7,10 +7,13 @@ It has two different versions which only differ by which hotend you're using
 
 - Input via 16pin horizontal/vertical microfit
 - Two outputs for partcooling fans
-- Soldered seperate voltage selection for hotend fan and partcooling fan
-   - Uses either the hotend voltage or one alternative voltage
 - Thermistor for the chamber
   - Supports any size from 0603 to 1206
+
+## Other Notes
+
+- Hotend-Fan is always connected to Alt Voltage on Carabiner K1.5
+- Partcooling-Fan is always connected to Alt Voltage on Carabiner K1.5
 
 ## Connectors & Amperage
 
