@@ -17,10 +17,12 @@ As an alternative for any Carabiner in the backpack, you can use a Constellation
 ## Features
 All variants of Carabiner share the following main features:
 - 16-pin input/output via MicroFit connector
-- Voltage for partcooling-fan / hotend-fan selectable between hotend voltage & 1 alternative voltage
 - Chamber thermistor
 - USB support
 - 48V on your heater, hotend-fan and part-cooling fan (if your mainboard allows for it!)
+
+Most variants of the Carabiner also have the following feature:
+- Selectable Voltage for partcooling-fan / hotend-fan between the hotend voltage & 1 alternative voltage
 
 ## Warnings
 
